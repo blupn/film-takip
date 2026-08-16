@@ -1,4 +1,4 @@
-# film-takip-## 📥 How to Download & Install
+# film-takip 📥 How to Download & Install
 
 1. **Download the ZIP**  
    - Click the green **"Code"** button above.  
